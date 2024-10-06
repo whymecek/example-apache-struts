@@ -8,6 +8,6 @@
   </head>
   <body>
     <h1>Welcome To Struts 2!</h1>
-    <p><a href="<s:url action='hello'/>">Hello World</a></p>
+    <p><a href="<s:url action='hello.do'/>">Hello World</a></p>
   </body>
 </html>
